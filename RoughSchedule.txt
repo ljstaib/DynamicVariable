@@ -19,14 +19,14 @@ Group formed: Wednesday, November 14th, 2018
 	Hongcheng - Interface
 	Myles - Lead/Documentation
 	
-*First progress meeting: Friday, November 30th, 2018
+*First progress meeting: Week of November 30th, 2018
  - Purpose:
 	* Discuss progress on each part: confirm how far everyone has got, Discuss functionallity of app
 	* Set deadlines for following week
 	* Discuss working skeleton app goal time of Monday, December 10, 2018
 	* (Other, probably)
 	
-*Second progress meeting: Friday, December 7th, 2018
+*Second progress meeting: Week of December 7th, 2018
 - Purpose:
 	* Interact with final app, decide which final features to include
 	* Ensure any unfinished part gets completed, focus fire on that
